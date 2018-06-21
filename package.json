@@ -1,0 +1,14 @@
+{
+  "name": "verdaccio-edboxes-gitlab",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eropple/verdaccio-edboxes-gitlab"
+  },
+  "dependencies": {
+    "gitlab": "^3.4.2"
+  },
+  "devDependencies": {
+    "verdaccio": "^3.2.0"
+  }
+}

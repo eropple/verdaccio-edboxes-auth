@@ -1,0 +1,10 @@
+storage: /tmp/verdaccio
+
+auth:
+  edboxes-gitlab:
+    gitlabServer: https://projects.edboxes.com
+
+logs:
+  - {type: stdout, format: pretty, level: trace}
+
+uplinks: {}

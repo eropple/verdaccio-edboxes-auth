@@ -1,0 +1,13 @@
+node_modules
+
+dist
+coverage
+
+cache
+tmp
+*.log
+*.tgz
+
+.vagrant
+
+packaging/_artifacts
